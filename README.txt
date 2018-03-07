@@ -1,0 +1,1 @@
+Validación de tipos primitivos de datos en JS
